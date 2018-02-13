@@ -2,6 +2,6 @@ Apples
 Oranges
 Bananas-2
 Grapes-3
-Pineapples-6
+Ice-cream-6
 Berries-5
 
